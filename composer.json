@@ -1,0 +1,9 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.1",
+        "fpdf/fpdf": "^1.85",
+        "smalot/pdfparser": "^2.3",
+        "spatie/pdf-to-text": "^1.2",
+        "setasign/fpdi": "^2.3"
+    }
+}
