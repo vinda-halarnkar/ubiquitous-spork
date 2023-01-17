@@ -4,6 +4,10 @@
         "fpdf/fpdf": "^1.85",
         "smalot/pdfparser": "^2.3",
         "spatie/pdf-to-text": "^1.2",
-        "setasign/fpdi": "^2.3"
+        "setasign/fpdi": "^2.3",
+        "amphp/react-adapter": "^2.1",
+        "spatie/async": "^1.5",
+        "tecnickcom/tcpdf": "^6.6",
+        "karriere/pdf-merge": "^1.3"
     }
 }
